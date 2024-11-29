@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis_PostGress_EFCore_WebAPI", "WebApplication2\Redis_PostGress_EFCore_WebAPI.csproj", "{07D1B9E2-A1CC-4C14-BE68-2D5A2B9B255E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D1B9E2-A1CC-4C14-BE68-2D5A2B9B255E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D1B9E2-A1CC-4C14-BE68-2D5A2B9B255E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D1B9E2-A1CC-4C14-BE68-2D5A2B9B255E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D1B9E2-A1CC-4C14-BE68-2D5A2B9B255E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1D9E9F-3469-4280-9A6C-365AEA69FA29}
+	EndGlobalSection
+EndGlobal
